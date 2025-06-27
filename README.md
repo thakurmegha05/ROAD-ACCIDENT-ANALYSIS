@@ -64,7 +64,7 @@ Citizens and stakeholders become more aware of traffic and safety trends
 
 Raw/processed dataset: Cleaned and structured accident data
 
-Screenshots: Preview of dashboard views and key insights
+Screenshots: Preview of dashboard views and key insights https://github.com/thakurmegha05/ROAD-ACCIDENT-ANALYSIS/blob/main/ROAD%20ACCIDENT%20ANALYSIS%20IMG.png
 
 README: Documentation of project overview, features, and usage
 
